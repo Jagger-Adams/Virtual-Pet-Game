@@ -1,0 +1,12 @@
+{
+  "gifts" : {
+    "common" : 50,
+    "rare" : 49,
+    "legendary" : 45
+  },
+  "foods" : {
+    "common" : 59,
+    "rare" : 49,
+    "legendary" : 46
+  }
+}
