@@ -1,0 +1,18 @@
+{
+  "save" : {
+    "name" : "asd",
+    "last_played" : "2025-03-31 18:54:43",
+    "playtime" : 170
+  },
+  "pet" : {
+    "name" : "asd",
+    "type" : "cat",
+    "health" : 75.0,
+    "energy" : 16.0,
+    "happiness" : 97.0,
+    "fullness" : 62.0
+  },
+  "day" : 0,
+  "status_is_alive" : true,
+  "score" : 440
+}

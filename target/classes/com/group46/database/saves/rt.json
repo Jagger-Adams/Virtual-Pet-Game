@@ -1,0 +1,18 @@
+{
+  "save" : {
+    "name" : "rt",
+    "last_played" : "2025-04-02 20:30:47",
+    "playtime" : 12
+  },
+  "pet" : {
+    "name" : "rt",
+    "type" : "fish",
+    "health" : 100.0,
+    "energy" : 88.0,
+    "happiness" : 96.0,
+    "fullness" : 88.0
+  },
+  "day" : 0,
+  "status_is_alive" : true,
+  "score" : 0
+}
